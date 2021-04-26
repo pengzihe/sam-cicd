@@ -12,4 +12,4 @@ sam deploy \
 aws cloudformation describe-stacks --stack-name $STACK \
     --query 'Stacks[0].Outputs[?OutputKey==`HelloWorldApi`].OutputValue' \
     --output text \
-    --region $REGION
+2    --region $REGION
