@@ -1,6 +1,6 @@
 # sam-app
 
-This is a sample template for sam-app - Below is a brief explanation of what we have generated for you:
+22This is a sample template for sam-app - Below is a brief explanation of what we have generated for you:
 
 ```bash
 .

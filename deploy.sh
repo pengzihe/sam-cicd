@@ -3,7 +3,7 @@
 source env.config
 
 sam deploy \
-    --template-file packaged.yaml \
+    --template-file packaged.yamxl \
     --stack-name $STACK \
     --capabilities CAPABILITY_IAM \
     --region $REGION
